@@ -15,5 +15,5 @@ Briefly describe any errors, bugs, or confusion you encountered and how you solv
 
 ## Screenshot
 Add a screenshot of your rendered component (you can drag and drop it here if using GitHub web interface).
-- 
+ 
 ![screenshot_of_rendered_output](https://github.com/user-attachments/assets/9d963c8e-4fc1-4719-84bc-db991bac25ce)
